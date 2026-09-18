@@ -5,7 +5,7 @@
 - CMake 3.22.1
 - GCC 11.4.0
 - git 2.34.1
-- 
+
 ## 构建命令
 ```bash
 cmake -S . -B build
@@ -16,5 +16,8 @@ cmake --build build
 ```
 ./build/hello
 ```
+
+## 预期输出
+Hello, Robomaster！
 
 ![运行成功截图](images/success.png)
